@@ -1,1 +1,2 @@
 # WebSocket
+> WebSocket是一種基於TCP連線的位於Application Layer的協定。在連線的初期和HTTP一樣，是透過client端請求，server才做回應，然而在連線建立後，雙方都能隨時將訊息傳遞給對方，因此使用WebSocket的效率較HTTP高
